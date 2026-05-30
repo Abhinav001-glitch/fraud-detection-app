@@ -61,7 +61,7 @@ Features used include:
 * New Balance (Sender)
 * Old Balance (Receiver)
 * New Balance (Receiver)
-
+````
 ## Installation
 
 Clone the repository:
