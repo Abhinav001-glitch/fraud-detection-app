@@ -31,6 +31,12 @@ The model is trained using machine learning classification techniques and deploy
 - Joblib
 - Jupyter Notebook
 
+## Dataset
+
+The complete training dataset (~250MB) is not included in this repository due to GitHub size limitations.
+Dataset link: https://www.kaggle.com/datasets/abhinav4651/fraud-detection-dataset
+
+
 ## Project Structure
 
 ````txt
