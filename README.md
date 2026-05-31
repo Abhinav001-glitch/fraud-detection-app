@@ -49,6 +49,7 @@ fraud-detection-app/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+````
 ## Dataset
 
 The dataset contains transaction-related information used to classify fraudulent and non-fraudulent transactions.
@@ -61,7 +62,7 @@ Features used include:
 * New Balance (Sender)
 * Old Balance (Receiver)
 * New Balance (Receiver)
-````
+
 ## Installation
 
 Clone the repository:
